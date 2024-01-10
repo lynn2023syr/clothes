@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+.title_class{
+    text-align: center;
+    margin: 10px;
+}
+
+.card:hover{
+    border:3px solid red;
+}
+
+.list_contact_us{
+    list-style-type: none;
+}
+
+ul.list_contact_us li{
+    height:53px;
+}
